@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from './pages/header.js'
-import Navbar from './pages/Navbar.js'
-import About from './pages/About.js'
-import Education from './pages/Education.js';
-import Project from './pages/Project.js'
-import Contact from './pages/Contact.js'
-import Footer from './pages/Footer.js'
+import Header from './header.js'
+import Navbar from './Navbar.js'
+import About from './About.js'
+import Education from './Education.js';
+import Project from './Project.js'
+import Contact from './Contact.js'
+import Footer from './Footer.js'
 
 
 function App() {
